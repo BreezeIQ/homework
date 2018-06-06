@@ -1,0 +1,35 @@
+ul {
+  background-color: green;
+  margin: 25;
+  padding: 30px;
+}
+
+li {
+  background-color: red;
+  display: inline-block;
+  padding: 7px;
+}
+
+.box {
+	display: inline-block;
+	width: 40%;
+}
+
+img {
+	width: 60%;
+	margin: 30px;
+	border: 4px;
+	padding: 12px;
+}
+
+.HTML {
+	background-color: 2BA8EO;
+}
+
+.CSS {
+	background-color: #EE6526; 
+}
+
+body {
+	text-align: center;
+}
