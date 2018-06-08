@@ -1,13 +1,18 @@
+body {
+	text-align: center;
+}
+
+
 ul {
   background-color: green;
-  margin: 25;
+  margin: 10px;
   padding: 30px;
 }
 
 li {
   background-color: red;
   display: inline-block;
-  padding: 7px;
+  padding: 10px;
 }
 
 .box {
@@ -17,19 +22,38 @@ li {
 
 img {
 	width: 60%;
-	margin: 30px;
-	border: 4px;
-	padding: 12px;
+	margin: 10px;
+	padding: 10px;
 }
 
-.HTML {
-	background-color: 2BA8EO;
+.html {
+	background-color: #2BA8E0;
 }
 
-.CSS {
+.css {
 	background-color: #EE6526; 
 }
 
-body {
-	text-align: center;
+#ALAINBREEZE{
+	background-color: orange;
+	margin: 10px;
+	height: 100px;
+	padding: 5px; 
+	border-radius: 50%;
+}
+
+#NGWABENARDINE{
+	background-color: gray;
+	height: 100px;
+	padding: 10PX;
+	border-radius: 50%;
+
+}
+
+p{
+	 /*padding-top: 40px;*/
+	 background-color: pink;
+	 height: 50px;
+	 padding: 5px;
+	border-radius: 60%;
 }
